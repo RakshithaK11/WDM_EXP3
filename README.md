@@ -142,3 +142,4 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 
 ### Result:
+GPS algorithm is implemented
